@@ -223,6 +223,12 @@ body.dark-mode .navbar {
     line-height: 1;
 }
 
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
 .nav-links {
     display: flex;
     align-items: center;
